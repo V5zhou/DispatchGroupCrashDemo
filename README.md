@@ -1,0 +1,2 @@
+# DispatchGroupCrashDemo
+演示一次dispatchGroup崩溃
